@@ -25,4 +25,4 @@ The package only offers one function: `brute()`.
 
 ## Inspiration
 
-I was inspired to write this package by [r/ProgrammerHumour](https://www.reddit.com/r/ProgrammerHumor/comments/8fdyf0/i_heard_were_brute_forcing_hello_world_now/). Because what else am I going to do on a Saturday morning?
+I was inspired to write this package by [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/8fdyf0/i_heard_were_brute_forcing_hello_world_now/). Because what else am I going to do on a Saturday morning?
